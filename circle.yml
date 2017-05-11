@@ -1,4 +1,4 @@
 test:
   override:
     - echo "TestRepo all tests are passing - super cool - from branch - pushing further changes after raising PR"
-    
+    - docker run hello-world
